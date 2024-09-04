@@ -20,4 +20,4 @@ A feature-rich scientific calculator built with React, Vite, and Tailwind CSS. T
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/zubi-afridi/React-Scientific-Calculator.git
